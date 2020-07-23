@@ -1,5 +1,6 @@
 # Peliculas
 
-Este es el repositorio del proyecto de películas de mi curso de Flutter
+Versión beta de Visualizador de Películas
 
-https://fernando-herrera.com/#/home
+
+
